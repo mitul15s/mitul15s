@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1E1B4B,50:4F46E5,100:7C3AED&text=Mitul%20Sati&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+(MERN);Data+Analyst+%7C+Python+Automation;BCA+Graduate+%E2%80%94+Graphic+Era+University;Open+to+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN);Data+Analyst+%7C+Python+Automation" />
 
 <br/>
 
 <a href="https://github.com/mitul15s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mitulsati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mitulsati@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Dehradun%2C%20India-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="REPLACE_WITH_YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-View%20PDF-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=mitul15s&style=flat-square&color=4F46E5&label=Profile+Views"/>
 
@@ -29,7 +29,6 @@
 | **Experience** | Web Developer Intern @ Nullclass EdTech (Aug – Oct 2025) |
 | **Location** | Dehradun, India |
 | **Status** | ✅ Actively seeking Software Engineer / Full Stack / Data Analyst roles |
-| **Contact** | mitulsati@gmail.com · linkedin.com/in/mitulsati |
 
 </div>
 
@@ -40,10 +39,10 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/100%2B-Job%20Listings%20Automated-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/~80%25-Manual%20Effort%20Reduced-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/4%2B-React%20Apps%20Shipped-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/~40%25-Faster%20UI%20Development-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/~70%25-Faster%20Portfolio%20Valuation-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/~80%25-Manual%20Effort%20Reduced-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/4%2B-React%20Apps%20Shipped-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/~40%25-Faster%20UI%20Dev-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/~70%25-Faster%20Valuation-A855F7?style=for-the-badge"/>
 
 </div>
 
@@ -51,9 +50,7 @@
 
 ## 🧑‍💻 Professional Summary
 
-Full stack developer and **B.C.A. graduate (2026)** specializing in **MERN stack development**, **Python automation**, and **data analysis**. Experienced in designing and consuming REST APIs, building scalable web applications, and working within **agile software development workflows**. I focus on shipping production-ready, data-driven solutions — not just prototypes.
-
-My strengths sit at the intersection of **application development** and **data engineering**: I build the interfaces, the APIs, and the pipelines that turn raw data into decisions.
+Full stack developer and **B.C.A. graduate (2026)** specializing in **MERN stack development**, **Python automation**, and **data analysis**. Experienced in designing and consuming REST APIs, building scalable web applications, and working within **agile software development workflows**. Focused on shipping production-ready, data-driven solutions — not just prototypes.
 
 <br/>
 
@@ -61,39 +58,20 @@ My strengths sit at the intersection of **application development** and **data e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,mongodb,mysql,git,github,vscode,postman,cpp,c&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css&theme=dark&perline=8"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,cpp&theme=dark&perline=8"/>
 
 </div>
 
 <table>
-<tr>
-<th align="left">Category</th>
-<th align="left">Technologies</th>
-</tr>
-<tr>
-<td><b>Languages</b></td>
-<td>Python, JavaScript (ES6+), TypeScript, SQL, C, C++</td>
-</tr>
-<tr>
-<td><b>Full Stack</b></td>
-<td>React.js, Node.js, Express.js, REST APIs, HTML5, CSS3, MERN Stack, Chart.js</td>
-</tr>
-<tr>
-<td><b>Data / ML</b></td>
-<td>NumPy, Pandas, Scikit-learn, Matplotlib, PyTorch, OpenCV, Power BI, Excel</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>MongoDB, MySQL, NoSQL, Relational Database Design</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>Git, GitHub, Postman, Selenium, BeautifulSoup, VS Code, CI/CD Pipelines</td>
-</tr>
-<tr>
-<td><b>Concepts</b></td>
-<td>DSA, OOP, DBMS, SDLC, Agile Methodology, Microservices, Web Scraping, Version Control</td>
-</tr>
+<tr><th align="left">Category</th><th align="left">Technologies</th></tr>
+<tr><td><b>Languages</b></td><td>Python, JavaScript (ES6+), TypeScript, SQL, C, C++</td></tr>
+<tr><td><b>Full Stack</b></td><td>React.js, Node.js, Express.js, REST APIs, HTML5, CSS3, MERN Stack, Chart.js</td></tr>
+<tr><td><b>Data / ML</b></td><td>NumPy, Pandas, Scikit-learn, Matplotlib, PyTorch, OpenCV, Power BI, Excel</td></tr>
+<tr><td><b>Databases</b></td><td>MongoDB, MySQL, NoSQL, Relational Database Design</td></tr>
+<tr><td><b>Tools</b></td><td>Git, GitHub, Postman, Selenium, BeautifulSoup, VS Code, CI/CD Pipelines</td></tr>
+<tr><td><b>Concepts</b></td><td>DSA, OOP, DBMS, SDLC, Agile Methodology, Microservices, Web Scraping, Version Control</td></tr>
 </table>
 
 <br/>
@@ -130,7 +108,10 @@ My strengths sit at the intersection of **application development** and **data e
 **Automation & Web Scraping Platform**
 [github.com/mitul15s/job-tracker](https://github.com/mitul15s/job-tracker)
 
-Automated extraction of **100+ live job listings** from multiple job boards using Python, Selenium & BeautifulSoup — reducing manual data entry by **~80%**. Built a full-stack kanban application with drag-and-drop pipeline management and a scalable MySQL relational database backend for multi-stage application tracking. Data exposed via a REST API layer for decoupled frontend-backend communication.
+<!-- Replace the src below with a real screenshot or GIF of the kanban board, uploaded to your repo's /assets folder -->
+<img src="https://raw.githubusercontent.com/mitul15s/mitul15s/main/assets/job-tracker-demo.gif" width="100%" alt="Job Tracker demo"/>
+
+Automated extraction of **100+ live job listings** from multiple job boards using Python, Selenium & BeautifulSoup — reducing manual data entry by **~80%**. Full-stack kanban application with drag-and-drop pipeline management and a scalable MySQL relational backend, exposed via a REST API layer.
 
 `Python` `Selenium` `BeautifulSoup` `JavaScript` `MySQL` `REST API`
 
@@ -141,7 +122,10 @@ Automated extraction of **100+ live job listings** from multiple job boards usin
 **Full-Stack Investment Portfolio Tracker**
 [github.com/mitul15s/wealthwatch](https://github.com/mitul15s/wealthwatch)
 
-Engineered a Python microservice to fetch and process real-time market data via financial APIs for automated, sub-second asset valuation. Designed scalable REST APIs backed by MongoDB and built interactive Chart.js data visualization dashboards (line, donut, P&L heatmap). Applied agile development practices and Git version control throughout, cutting manual review time by **~70%**.
+<!-- Replace the src below with a real screenshot or GIF of the dashboard, uploaded to your repo's /assets folder -->
+<img src="https://raw.githubusercontent.com/mitul15s/mitul15s/main/assets/wealthwatch-demo.gif" width="100%" alt="WealthWatch demo"/>
+
+Python microservice fetching real-time market data via financial APIs for automated, sub-second asset valuation. Scalable REST APIs backed by MongoDB with interactive Chart.js dashboards (line, donut, P&L heatmap), cutting manual review time by **~70%**.
 
 `React.js` `Node.js` `Python` `MongoDB` `Chart.js` `REST APIs`
 
@@ -174,12 +158,12 @@ Engineered a Python microservice to fetch and process real-time market data via 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mitul15s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul15s&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mitul15s&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=4F46E5&text_color=ffffff&bg_color=0D1117&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul15s&layout=compact&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0D1117"/>
 
-<img src="https://streak-stats.demolab.com?user=mitul15s&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mitul15s&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mitul15s&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mitul15s&no-frame=true&margin-w=15&row=1&theme=radical"/>
 
 </div>
 
@@ -189,7 +173,7 @@ Engineered a Python microservice to fetch and process real-time market data via 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mitul15s&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mitul15s&hide_border=true&bg_color=0D1117&color=7C3AED&line=A855F7&point=ffffff" width="100%"/>
 
 </div>
 
