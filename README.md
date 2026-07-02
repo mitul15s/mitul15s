@@ -158,12 +158,12 @@ Python microservice fetching real-time market data via financial APIs for automa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mitul15s&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=4F46E5&text_color=ffffff&bg_color=0D1117&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul15s&layout=compact&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mitul15s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul15s&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=mitul15s&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED"/>
+<img src="https://streak-stats.demolab.com?user=mitul15s&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mitul15s&no-frame=true&margin-w=15&row=1&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mitul15s&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 
 </div>
 
@@ -173,9 +173,10 @@ Python microservice fetching real-time market data via financial APIs for automa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mitul15s&hide_border=true&bg_color=0D1117&color=7C3AED&line=A855F7&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mitul15s&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
+
 
 <br/>
 
