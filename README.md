@@ -1,116 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hi%20There,%20I'm%20Mitul%20Sati%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Python%20Automation%20|%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Mitul%20Sati&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/mitulsati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mitulsati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/mitul15s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Dehradun,%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+full-stack+applications;Automating+workflows+with+Python;Turning+data+into+decisions+with+ML+%26+BI;Open+to+SWE+%2F+Full+Stack+%2F+Data+Analyst+roles" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=mitul15s&color=58A6FF&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/mitul15s?style=flat-square&color=58A6FF&label=Followers)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Data+Analyst;Python+Automation+Engineer;BCA+Graduate+2026;MERN+Stack+Specialist;Building+Scalable+Digital+Solutions" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/BCA%20Graduate-Graphic%20Era%20University-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-MERN-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-Python%20%7C%20SQL-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-6D28D9?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://github.com/mitul15s"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/mitulsati"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:mitulsati@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mitul15s&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/mitul15s?style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/mitul15s?style=for-the-badge&color=7C3AED"/>
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
-```javascript
-const mitul = {
-  role: "Full Stack Developer & Data Enthusiast",
-  location: "Dehradun, India",
-  education: "BCA @ Graphic Era University (2023 – 2026)",
-  currentFocus: ["MERN Stack", "Python Automation", "Data Analysis"],
-  lookingFor: ["Software Engineer", "Full Stack Developer", "Data Analyst"],
-  funFact: "I enjoy turning tedious manual processes into one-click automations 🤖"
-};
+```yaml
+name: Mitul Sati
+role: Full Stack Developer & Data Analyst
+education: BCA — Graphic Era University, Dehradun (2023 – 2026) ✅ Graduated
+location: Dehradun, India
+core_stack: [React.js, Node.js, Express.js, MongoDB, MySQL, Python]
+also_skilled_in: [Web Scraping, Data Analysis, Data Visualization, REST API Design]
+mindset: "Automate the repetitive, so I can focus on the meaningful."
 ```
 
-- 🎓 Final-year **BCA** student at Graphic Era University, graduating **2026**
-- 💻 I build **production-ready, data-driven web applications** end to end — frontend, backend, database, and deployment
-- 🔧 Comfortable across the stack: **React.js** on the front, **Node.js/Express** on the back, **MongoDB/MySQL** for data
-- 🐍 I automate the boring stuff with **Python** — web scraping, data pipelines, and reporting
-- 📊 I like making data *readable* — dashboards, visualizations, and clean REST APIs that other developers actually enjoy consuming
-- 🤝 I've worked in **agile sprint cycles** with real product teams, not just solo projects
-- 🎯 Currently seeking **Software Engineer / Full Stack Developer / Data Analyst** roles where I can ship real impact
-- 📚 Always learning — right now leveling up on **system design**, **CI/CD pipelines**, and **microservices**
-- ⚡ Fun fact: my favorite part of any project is the moment a slow, manual process becomes a single automated command
+I'm a **BCA graduate (2026)** and full stack developer specializing in **MERN stack development**, **Python automation**, and **data analysis**. I build production-ready, data-driven web applications — from REST APIs and scalable backends to interactive frontend dashboards — and I have hands-on experience working within **agile software development workflows** on real product teams.
+
+My sweet spot is where **software engineering meets data**: building the pipelines and interfaces that turn raw data into something people can actually act on.
+
+### 🎯 Areas of Interest
+`Full Stack Development` · `Data Analytics` · `Automation Engineering` · `REST API Design` · `Machine Learning Fundamentals` · `Product Development` · `Open Source`
+
+### ✅ Open To
+`Software Engineer` · `Full Stack Developer` · `Data Analyst` · `Backend Developer` · `Automation Engineer` roles
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,mysql&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,html,css,mongodb,mysql,git,github,vscode,cpp,c,postman&theme=dark" />
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
+</p>
 
-</div>
+### Backend & Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
+</p>
 
-<table align="center">
+### Tools & Workflow
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+</p>
+
+<br/>
+
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**💬 Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+**🔧 Concepts I Work With**
+`DSA` `OOP` `DBMS` `SDLC` `Agile Methodology` `Microservices` `Web Scraping` `CI/CD` `Version Control` `Problem Solving`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**🌐 Full Stack**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**📊 Data / ML**
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-**🗄️ Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4EA94B?style=flat-square&logo=databricks&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**🧰 Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**🧠 Concepts**
-`DSA` `OOP` `DBMS` `SDLC`
-`Agile` `Microservices`
-`Web Scraping` `CI/CD`
-`Version Control`
+**📊 Data / ML Toolkit**
+`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `PyTorch` `OpenCV` `Power BI` `Excel`
 
 </td>
 </tr>
@@ -118,44 +94,73 @@ const mitul = {
 
 <br/>
 
+## 📊 Data & ML Proficiency
+
+| Domain | Proficiency | Tools |
+|---|---|---|
+| Data Analysis | Advanced | Pandas, NumPy, Excel |
+| Data Visualization | Advanced | Matplotlib, Power BI, Chart.js |
+| Automation & Web Scraping | Advanced | Python, Selenium, BeautifulSoup |
+| Machine Learning | Intermediate | Scikit-learn |
+| Deep Learning | Intermediate | PyTorch |
+| Computer Vision | Intermediate | OpenCV |
+| Database Design | Advanced | MySQL, MongoDB, Relational Schema Design |
+
+<br/>
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>🧭 Job Tracker — Automation & Web Scraping Platform</b></summary>
 
-### 🧭 [Job Tracker](https://github.com/mitul15s/job-tracker)
-**Automation & Web Scraping Platform**
+<br/>
 
-An end-to-end platform that eliminates manual job-hunting admin.
+A productivity platform that eliminates the manual grind of job hunting — automated discovery, structured tracking, and a full application pipeline.
 
-- 🔍 Automated extraction of **100+ live job listings** from multiple job boards using **Python, Selenium & BeautifulSoup**
-- ⏱️ Reduced manual data entry by **~80%**
-- 🗂️ Full-stack **kanban board** with drag-and-drop pipeline management for multi-stage tracking
-- 🛢️ Scalable **MySQL** relational schema for structured application data
-- 🔌 REST API layer for decoupled frontend-backend communication
+| Category | Details |
+|---|---|
+| Stack | Python, Selenium, BeautifulSoup, JavaScript, MySQL, REST API |
+| Scale | 100+ live job listings scraped from multiple job boards |
+| Impact | Reduced manual data entry by **~80%** |
+| Architecture | Full-stack kanban app with a scalable MySQL relational backend |
+| Repository | [github.com/mitul15s/job-tracker](https://github.com/mitul15s/job-tracker) |
+
+**Key Contributions**
+- Automated extraction of live job listings using Python, Selenium & BeautifulSoup
+- Built a drag-and-drop kanban board for multi-stage application tracking
+- Designed a scalable relational database schema in MySQL
+- Exposed data through a REST API layer for decoupled frontend-backend communication
 
 `Python` `Selenium` `BeautifulSoup` `JavaScript` `MySQL` `REST API`
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 💰 [WealthWatch](https://github.com/mitul15s/wealthwatch)
-**Full-Stack Investment Portfolio Tracker**
+<br/>
 
-A real-time portfolio dashboard for tracking asset performance.
+<details open>
+<summary><b>💰 WealthWatch — Full Stack Investment Portfolio Tracker</b></summary>
 
-- ⚡ **Python microservice** fetching real-time market data via financial APIs for sub-second valuation
-- 📈 Interactive **Chart.js** dashboards — line, donut, and P&L heatmap views
-- 🧱 Scalable **REST APIs** backed by **MongoDB**
-- 🔁 Automated valuation workflows, cutting manual review time by **~70%**
-- 🔄 Built with **agile practices** and full Git version control
+<br/>
+
+A real-time portfolio dashboard that turns raw market data into clear, actionable financial insight.
+
+| Category | Details |
+|---|---|
+| Stack | React.js, Node.js, Python, MongoDB, Chart.js, REST APIs |
+| Performance | Sub-second asset valuation via a dedicated Python microservice |
+| Impact | Cut manual valuation review time by **~70%** |
+| Architecture | Scalable REST APIs backed by MongoDB |
+| Repository | [github.com/mitul15s/wealthwatch](https://github.com/mitul15s/wealthwatch) |
+
+**Key Contributions**
+- Engineered a Python microservice to fetch and process real-time market data via financial APIs
+- Designed scalable REST APIs backed by MongoDB
+- Built interactive Chart.js dashboards — line, donut, and P&L heatmap views
+- Automated valuation workflows using agile development practices and Git version control
 
 `React.js` `Node.js` `Python` `MongoDB` `Chart.js` `REST APIs`
 
-</td>
-</tr>
-</table>
+</details>
 
 <div align="center">
 <sub>⭐ More projects and experiments live on <a href="https://github.com/mitul15s?tab=repositories">my repositories page</a></sub>
@@ -172,12 +177,17 @@ A real-time portfolio dashboard for tracking asset performance.
 ### 🏢 Web Developer Intern — Nullclass EdTech (Remote)
 **Aug 2025 – Oct 2025**
 
-- 🖥️ Built **4+ responsive React.js web applications**, improving cross-platform compatibility and reducing layout bugs by **~30%** across 3 product lines
-- 🧩 Engineered **10+ reusable, modular component modules**, cutting UI development time for new features by **~40%**
+Worked on responsive web applications and scalable frontend systems while collaborating on API-driven product workflows in an agile team environment.
+
+**Responsibilities & Impact**
+- 🖥️ Built **4+ responsive React.js applications**, reducing layout bugs by **~30%** across 3 product lines
+- 🧩 Engineered **10+ reusable component modules**, cutting UI development time for new features by **~40%**
 - 🔗 Integrated and consumed **RESTful APIs** via Node.js/Express.js across 3 product workflows
 - 🔀 Managed all code changes via **Git version control** following agile sprint cycles
-- ⚡ Improved page-load responsiveness through **code-splitting**, **lazy loading**, and **API response caching**
+- ⚡ Improved page-load responsiveness through **code-splitting, lazy loading & API response caching**
 - ✅ Conducted **unit testing** to validate component behaviour
+
+**Skills:** `React.js` `JavaScript` `HTML` `CSS` `Node.js` `Express.js` `REST APIs` `Git`
 
 </td>
 </tr>
@@ -189,10 +199,10 @@ A real-time portfolio dashboard for tracking asset performance.
 
 <table>
 <tr>
-<td width="15%" align="center">🎓</td>
-<td width="85%">
+<td width="10%" align="center">🎓</td>
+<td width="90%">
 
-**Bachelor of Computer Applications (BCA)**
+**Bachelor of Computer Applications (BCA)** — *Graduated*
 Graphic Era University, Dehradun, India · 2023 – 2026
 
 </td>
@@ -210,36 +220,68 @@ Aryaman Vikram Birla Institute of Learning, Haldwani, India · 2021 – 2023
 
 <br/>
 
+## 🏆 Achievements
+
+| Recognition | Details |
+|---|---|
+| Full Stack Delivery | Built a production-style investment portfolio tracker end to end |
+| Automation Engineering | Automated extraction of 100+ live job listings, cutting manual effort by ~80% |
+| Internship Impact | Reduced layout bugs by ~30% and UI dev time by ~40% during EdTech internship |
+| Data-Driven Systems | Built interactive dashboards translating raw data into visual insight |
+| Technical Foundation | Strong grounding in DSA, OOP, and DBMS |
+
+<br/>
+
 ## 📜 Certifications
 
-| Certification | Provider | Year |
-|---|---|---|
-| 🐍 Python for Everybody | University of Michigan (Coursera) | 2024 |
-| 🗃️ SQL (Intermediate) | HackerRank | 2025 |
-| 🧩 Problem Solving (Basic) | HackerRank | 2025 |
+![Coursera](https://img.shields.io/badge/Python%20for%20Everybody-University%20of%20Michigan%2C%20Coursera%20(2024)-0056D2?style=for-the-badge&logo=coursera)
+![HackerRank](https://img.shields.io/badge/SQL%20Intermediate-HackerRank%20(2025)-00EA64?style=for-the-badge&logo=hackerrank)
+![HackerRank](https://img.shields.io/badge/Problem%20Solving%20Basic-HackerRank%20(2025)-00EA64?style=for-the-badge&logo=hackerrank)
 
 <br/>
 
-## 🌱 Currently
+## 🌱 Current Focus
 
-- 🔭 Working on polishing **Job Tracker** and **WealthWatch** for production use
-- 🌱 Learning **system design fundamentals** and advanced **CI/CD pipelines**
-- 👯 Open to collaborating on **full-stack** or **data automation** projects
-- 💬 Ask me about **React**, **REST API design**, **web scraping**, or **data visualization**
-- 📫 Reach me at **mitulsati@gmail.com**
+```yaml
+Learning:
+  - System Design Fundamentals
+  - Advanced CI/CD Pipelines
+  - Cloud Basics
+
+Building:
+  - Production-ready polish for Job Tracker & WealthWatch
+  - New automation tooling in Python
+
+Exploring:
+  - Machine Learning applications in real products
+  - Open Source contribution opportunities
+
+Open_To:
+  - Software Engineer roles
+  - Full Stack Developer roles
+  - Data Analyst roles
+```
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mitul15s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul15s&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitul15s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul15s&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitul15s&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mitul15s&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mitul15s&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</div>
+
+<br/>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mitul15s&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </div>
 
@@ -267,27 +309,20 @@ Aryaman Vikram Birla Institute of Learning, Haldwani, India · 2021 – 2023
 
 <br/>
 
-## 💡 A Quote I Build By
-
-> *"Automate the repetitive, so you can focus on the meaningful."*
-
-<br/>
-
 <div align="center">
 
 ## 📫 Let's Connect
 
-I'm actively open to **Software Engineer**, **Full Stack Developer**, and **Data Analyst** opportunities.
-If you're hiring or just want to talk tech, my inbox is always open!
+I'm actively open to **Software Engineer**, **Full Stack Developer**, and **Data Analyst** opportunities — if you're hiring, or just want to talk tech, my inbox is always open.
 
-<a href="mailto:mitulsati@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mitulsati"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/mitul15s"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:mitulsati@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://linkedin.com/in/mitulsati"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/mitul15s"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
-### Thanks for stopping by! 🚀
+*"Engineering scalable solutions, transforming data into impact."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7" width="100%"/>
 
 </div>
